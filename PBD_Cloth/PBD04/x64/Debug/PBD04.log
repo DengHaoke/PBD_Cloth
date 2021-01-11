@@ -1,0 +1,38 @@
+﻿  main.cpp
+A:\OpenGLExercise\PBD04\PBD04\Node.h(18,111): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+A:\OpenGLExercise\PBD04\PBD04\Constraint.h(26,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+A:\OpenGLExercise\PBD04\PBD04\cloth.h(18,31): warning C4305: “初始化”: 从“double”到“const float”截断
+A:\OpenGLExercise\PBD04\PBD04\cloth.h(19,27): warning C4305: “初始化”: 从“double”到“const float”截断
+A:\OpenGLExercise\PBD04\PBD04\cloth.h(20,29): warning C4305: “初始化”: 从“double”到“const float”截断
+A:\OpenGLExercise\PBD04\PBD04\cloth.h(66,102): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+A:\OpenGLExercise\PBD04\PBD04\cloth.h(66,61): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+A:\OpenGLExercise\PBD04\PBD04\cloth.h(214,68): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  Simulator.cpp
+A:\OpenGLExercise\PBD04\PBD04\Node.h(18,111): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+A:\OpenGLExercise\PBD04\PBD04\Constraint.h(26,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+A:\OpenGLExercise\PBD04\PBD04\cloth.h(18,31): warning C4305: “初始化”: 从“double”到“const float”截断
+A:\OpenGLExercise\PBD04\PBD04\cloth.h(19,27): warning C4305: “初始化”: 从“double”到“const float”截断
+A:\OpenGLExercise\PBD04\PBD04\cloth.h(20,29): warning C4305: “初始化”: 从“double”到“const float”截断
+A:\OpenGLExercise\PBD04\PBD04\cloth.h(66,102): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+A:\OpenGLExercise\PBD04\PBD04\cloth.h(66,61): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+A:\OpenGLExercise\PBD04\PBD04\cloth.h(214,68): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+A:\OpenGLExercise\PBD04\PBD04\Simulator.cpp(32,17): warning C4305: “=”: 从“double”到“float”截断
+A:\OpenGLExercise\PBD04\PBD04\Simulator.cpp(46,37): warning C4305: “参数”: 从“double”到“const float”截断
+A:\OpenGLExercise\PBD04\PBD04\Simulator.cpp(47,34): warning C4305: “参数”: 从“double”到“const float”截断
+A:\OpenGLExercise\PBD04\PBD04\Simulator.cpp(49,73): warning C4305: “参数”: 从“double”到“float”截断
+A:\OpenGLExercise\PBD04\PBD04\Simulator.cpp(49,28): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+A:\OpenGLExercise\PBD04\PBD04\Simulator.cpp(71,47): warning C4305: “初始化”: 从“double”到“float”截断
+A:\OpenGLExercise\PBD04\PBD04\Simulator.cpp(72,47): warning C4305: “初始化”: 从“double”到“float”截断
+A:\OpenGLExercise\PBD04\PBD04\Simulator.cpp(74,42): warning C4305: “初始化”: 从“double”到“float”截断
+  Viewer.cpp
+A:\OpenGLExercise\PBD04\PBD04\Node.h(18,111): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+A:\OpenGLExercise\PBD04\PBD04\Constraint.h(26,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+A:\OpenGLExercise\PBD04\PBD04\cloth.h(18,31): warning C4305: “初始化”: 从“double”到“const float”截断
+A:\OpenGLExercise\PBD04\PBD04\cloth.h(19,27): warning C4305: “初始化”: 从“double”到“const float”截断
+A:\OpenGLExercise\PBD04\PBD04\cloth.h(20,29): warning C4305: “初始化”: 从“double”到“const float”截断
+A:\OpenGLExercise\PBD04\PBD04\cloth.h(66,102): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+A:\OpenGLExercise\PBD04\PBD04\cloth.h(66,61): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+A:\OpenGLExercise\PBD04\PBD04\cloth.h(214,68): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+A:\OpenGLExercise\PBD04\PBD04\Viewer.cpp(17,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  正在生成代码...
+LINK : fatal error LNK1104: 无法打开文件“freeglutd.lib”
